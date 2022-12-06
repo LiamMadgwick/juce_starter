@@ -8,3 +8,5 @@ it goes over the constructor for each seperate file and tries to explain a littl
 for those who are just starting out learning DSP!
 
 hopefully this can be useful!
+
+to start... look through editor.h and then editor.cpp and then processor.h and processor.cpp
